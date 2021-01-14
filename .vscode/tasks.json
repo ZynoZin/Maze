@@ -9,6 +9,8 @@
             "args": [
                 "-g",
                 "${file}",
+                "-g",
+                "D:\\SDLProjects\\src\\functions.c",
                 "-o",
                 "${workspaceFolder}\\build\\box.exe",
                 "-IC:\\MinGW\\include\\SDL2",
