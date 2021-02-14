@@ -17,7 +17,8 @@
                 "-LC:\\MinGW\\lib",
                 "-lmingw32",
                 "-lSDL2main",
-                "-lSDL2"
+                "-lSDL2",
+                "-lSDL2_image"
             ],
             "options": {
                 //Pay attention to change to your own MinGW directory
