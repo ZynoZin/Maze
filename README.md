@@ -1,7 +1,7 @@
 # Maze
 A simple C Maze app done with SDL2
 
->Once you open the app you get the followoing:
+>Once you open the app, you get the following:
 <img src="pictures/firstScreen.png" width="800px" height="auto">
 
 # Start Button:
