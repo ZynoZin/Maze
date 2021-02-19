@@ -1,6 +1,9 @@
 # Maze
 A simple C Maze app done with SDL2
 
+>Project Done in collaboration with :
+[Redouane Karzazi](https://github.com/gitRedDev)
+
 >Once you open the app, you get the following:
 <img src="pictures/firstScreen.png" width="800px" height="auto">
 
